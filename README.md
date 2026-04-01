@@ -298,16 +298,15 @@ Document it so others can learn
 
 ---
 
-## 📫 Connect
+## 📫 Connect & Collaborate
 
 <div align="center">
 
 <a href="https://github.com/Vguver">
-  <img src="https://img.shields.io/badge/GitHub-Vguver-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Vguver-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" />
 </a>
-
 <a href="https://github.com/Vguver/isolated-desktops">
-  <img src="https://img.shields.io/badge/Project-isolated--desktops-purple?style=for-the-badge&logo=linux&logoColor=white" alt="isolated-desktops" />
+  <img src="https://img.shields.io/badge/Project-isolated--desktops-39FF14?style=for-the-badge&logo=linux&logoColor=0D1117" alt="isolated-desktops" />
 </a>
 
 </div>
