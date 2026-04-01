@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there!+I'm+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools+for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there!+I'm+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;For+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Linux-Enthusiast-00D9FF?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux Enthusiast" />
@@ -99,6 +99,19 @@ A big part of that motivation comes from helping family members replicate useful
 ## GitHub Stats
 
 <p align="center">
+  <img width="49%" alt="" src="https://github-readme-stats.vercel.app/api?username=Vguver&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" />
+  <img width="49%" alt="" src="https://streak-stats.demolab.com?user=Vguver&theme=blue-green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vguver&layout=compact&theme=blue-green&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vguver&show_icons=true&include_all_commits=true&theme=transparent&title_color=00E5FF&text_color=A7FFF4&icon_color=39FF14&border_color=00BFFF" alt="VG GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Vguver&background=0D111700&border=00BFFF&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakNum=A7FFF4&sideNums=A7FFF4&currStreakLabel=39FF14&sideLabels=00E5FF&dates=8EEBFF" alt="VG GitHub streak" />
 </p>
@@ -109,6 +122,78 @@ A big part of that motivation comes from helping family members replicate useful
 </p>
 
 ---
+## Current Focus
+
+```mermaid
+flowchart TB
+    CORE((Linux Desktop Experimentation)):::core
+
+    PM[Profile Management]:::module
+    DA[Desktop Analysis]:::module
+    TD[Tool Development]:::module
+    CS[Community Support]:::module
+
+    CORE ==> PM
+    CORE ==> DA
+    CORE ==> TD
+    CORE ==> CS
+
+    PM --> PM1[Session isolation]:::node
+    PM --> PM2[Config separation]:::node
+    PM --> PM3[Safe testing]:::node
+
+    DA --> DA1[Structure study]:::node
+    DA --> DA2[Workflow comparison]:::node
+    DA --> DA3[Best practices]:::node
+
+    TD --> TD1[Reusable scripts]:::node
+    TD --> TD2[Modular design]:::node
+    TD --> TD3[Documentation]:::node
+
+    CS --> CS1[Family guidance]:::node
+    CS --> CS2[New user help]:::node
+    CS --> CS3[Knowledge sharing]:::node
+
+    PM -. workflows .-> TD
+    DA -. insights .-> TD
+    CS -. support .-> PM
+    CS -. feedback .-> DA
+
+    classDef core fill:#04161a,stroke:#00e5ff,stroke-width:4px,color:#d9ffff;
+    classDef module fill:#071b18,stroke:#39ff14,stroke-width:3px,color:#d9fff1;
+    classDef node fill:#0d1117,stroke:#00bfff,stroke-width:2px,color:#bffcff;
+    linkStyle default stroke:#00d9ff,stroke-width:2px;
+```
+
+<table>
+<tr>
+<td width="33%">
+
+### Experimentation
+- Profile-based workflows
+- Multi-desktop testing
+- Safer customization
+
+</td>
+<td width="33%">
+
+### Development
+- Reusable setup logic
+- Modular structure
+- Clear documentation
+
+</td>
+<td width="33%">
+
+### Learning
+- New-user friendly tools
+- Practical experimentation
+- Hands-on understanding
+
+</td>
+</tr>
+</table>
+
 
 ## Current Focus
 
