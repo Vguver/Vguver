@@ -151,35 +151,51 @@ A big part of that motivation comes from **helping family members** replicate us
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'background':'#0D1117', 'primaryColor':'#0D1117', 'primaryBorderColor':'#00BFFF', 'primaryTextColor':'#D9FFFF', 'lineColor':'#00E5FF', 'secondaryColor':'#0D1117', 'tertiaryColor':'#0D1117' }, 'flowchart': { 'curve': 'stepBefore', 'htmlLabels': true }}}%%
-flowchart LR
-    subgraph LEFT[" "]
-      direction TB
-      DA["Desktop Analysis"]:::module
-      PM["Profile Management"]:::module
-    end
-
+flowchart TB
     CORE["VG CHIP<br/>Linux Desktop Experimentation"]:::chip
 
-    subgraph RIGHT[" "]
-      direction TB
-      TD["Tool Development"]:::module
-      CS["Community Support"]:::module
+    subgraph BUS[" "]
+      direction LR
+      PM["Profile Management"]:::moduleB
+      DA["Desktop Analysis"]:::moduleG
+      TD["Tool Development"]:::moduleB
+      CS["Community Support"]:::moduleG
     end
 
-    DA --> CORE
-    PM --> CORE
-    CORE --> TD
-    CORE --> CS
+    CORE ==> PM
+    CORE ==> DA
+    CORE ==> TD
+    CORE ==> CS
+
+    PM --> PM1["Session isolation"]:::nodeB
+    PM --> PM2["Config separation"]:::nodeB
+    PM --> PM3["Safe testing"]:::nodeB
+
+    DA --> DA1["Structure study"]:::nodeG
+    DA --> DA2["Workflow comparison"]:::nodeG
+    DA --> DA3["Best practices"]:::nodeG
+
+    TD --> TD1["Reusable scripts"]:::nodeB
+    TD --> TD2["Modular design"]:::nodeB
+    TD --> TD3["Documentation"]:::nodeB
+
+    CS --> CS1["Family guidance"]:::nodeG
+    CS --> CS2["New user help"]:::nodeG
+    CS --> CS3["Knowledge sharing"]:::nodeG
 
     classDef chip fill:#07131A,stroke:#39FF14,stroke-width:4px,color:#D9FFFF;
-    classDef module fill:#0D1117,stroke:#00BFFF,stroke-width:3px,color:#A7FFF4;
+    classDef moduleB fill:#0D1117,stroke:#00BFFF,stroke-width:3px,color:#A7FFF4;
+    classDef moduleG fill:#0D1117,stroke:#39FF14,stroke-width:3px,color:#D9FFF1;
+    classDef nodeB fill:#0D1117,stroke:#00E5FF,stroke-width:2px,color:#BFFCFF;
+    classDef nodeG fill:#0D1117,stroke:#00FF9C,stroke-width:2px,color:#D9FFF1;
+    linkStyle default stroke:#00D9FF,stroke-width:2px;
 ```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<h3>🔬 Experimentation</h3>
+<img src="https://img.shields.io/badge/Experimentation-00BFFF?style=for-the-badge" alt="Experimentation" />
 
 <ul>
   <li>Profile-based workflows</li>
@@ -189,9 +205,9 @@ flowchart LR
 </ul>
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<h3>🛠️ Development</h3>
+<img src="https://img.shields.io/badge/Development-39FF14?style=for-the-badge&logoColor=0D1117" alt="Development" />
 
 <ul>
   <li>Reusable setup logic</li>
@@ -201,11 +217,9 @@ flowchart LR
 </ul>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<h3>🧠 Analysis</h3>
+<img src="https://img.shields.io/badge/Analysis-00BFFF?style=for-the-badge" alt="Analysis" />
 
 <ul>
   <li>Study real desktop structures</li>
@@ -215,9 +229,9 @@ flowchart LR
 </ul>
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-<h3>🤝 Support</h3>
+<img src="https://img.shields.io/badge/Support-39FF14?style=for-the-badge&logoColor=0D1117" alt="Support" />
 
 <ul>
   <li>Family-friendly learning</li>
@@ -229,6 +243,7 @@ flowchart LR
 </td>
 </tr>
 </table>
+
 
 ---
 
