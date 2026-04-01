@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <em>I learn by testing real systems, rebuilding workflows, and refining setups —<br/>
+  <em>I learn by testing real systems, rebuilding workflows, and refining setups ;<br/>
   then turning that experience into practical tools that others can actually reuse.</em>
 </p>
 
