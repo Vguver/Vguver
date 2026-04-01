@@ -1,4 +1,4 @@
-# Hi, I'm Vguver
+# Hi, I'm VG
 
 I developed an interest in computing and electronics at an early age. Although life eventually took me into a different branch of engineering, Linux brought me back to that original curiosity.
 
