@@ -1,90 +1,127 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there!+I'm+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;For+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there+!+I+am+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-Enthusiast-00D9FF?style=for-the-badge&logo=linux&logoColor=0D1117" alt="Linux Enthusiast" />
-  <img src="https://img.shields.io/badge/Learning-Self--Taught-39FF14?style=for-the-badge&logo=github&logoColor=0D1117" alt="Self-Taught" />
-  <img src="https://img.shields.io/badge/Focus-Desktop%20Experimentation-00BFFF?style=for-the-badge&logo=gnome&logoColor=0D1117" alt="Desktop Experimentation" />
-  <img src="https://img.shields.io/badge/Approach-Hands--On%20Testing-00FF9C?style=for-the-badge&logo=git&logoColor=0D1117" alt="Hands-On Testing" />
-</p>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Enthusiast" />
+  <img src="https://img.shields.io/badge/Learning-Self--Taught-purple?style=for-the-badge&logo=github&logoColor=0D1117" alt="Self-Taught" />
+  <img src="https://img.shields.io/badge/Focus-Desktop%20Experimentation-green?style=for-the-badge&logo=linux&logoColor=white" alt="Desktop Experimentation" />
+  <img src="https://img.shields.io/badge/Approach-Hands--On%20Testing-cyan?style=for-the-badge&logo=git&logoColor=0D1117" alt="Hands-On Testing" />
+   </p>
 
-<p><strong>I learn by testing real systems, rebuilding workflows, and refining setups</strong></p>
-<p>Then I turn that experience into practical tools that others can actually reuse.</p>
+<p>
+  <em>I learn by testing real systems, rebuilding workflows, and refining setups —<br/>
+  then turning that experience into practical tools that others can actually reuse.</em>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 🧭 About Me
 
 From an early age, I was drawn to computing and electronics, even taking related courses along the way. Life eventually led me into a different branch of engineering, but Linux brought me back to that original curiosity.
 
-A few years ago, after discovering creators like Chris Titus Tech and others in the Linux community, I started exploring Linux seriously in my spare time. Most of what I know has come from self-learning, experimentation, and countless hours of rebuilding, testing, and refining.
+A few years ago, after discovering creators like **Chris Titus Tech** and others in the Linux community, I started exploring Linux seriously in my spare time. Most of what I know has come from **self-learning, experimentation, and countless hours of rebuilding, testing, and refining**.
 
-I am not a traditional software developer, and I do not come from a formal IT background. I am an enthusiast who learns by doing, studies how other people build their systems, and uses modern tools to turn useful ideas into practical projects.
-
----
-
-## Why This GitHub Exists
-
-This GitHub is where I share projects designed to make Linux easier to understand, easier to experiment with, and easier to customize.
-
-A big part of that motivation comes from helping family members replicate useful setups, understand how Linux desktops are structured, and choose how they want their own computers to behave.
-
-> I do not build these projects to look like a developer.  
-> I build them because they solve real problems for me, help the people around me, and hopefully make Linux more approachable for others too.
+I am not a traditional software developer, and I do not come from a formal IT background. I am an enthusiast who **learns by doing**, studies how other people build their systems, and uses modern tools to turn useful ideas into practical projects.
 
 ---
 
-## What I Build
+## 💡 Why This GitHub Exists
 
-### Core Focus
-- Practical Linux tools for experimentation
-- Reusable workflows for testing desktops
-- Session-based profile management
-- Learning-oriented customization utilities
+This GitHub is where I share projects designed to make Linux **easier to understand, easier to experiment with, and easier to customize**.
 
-### Design Philosophy
-- Real-world use drives development
-- Family support shapes features
-- Hands-on iteration refines tools
-- Approachability guides design
+A big part of that motivation comes from **helping family members** replicate useful setups, understand how Linux desktops are structured, and choose how they want their own computers to behave.
+
+> **I do not build these projects to look like a developer.**  
+> **I build them because they solve real problems for me, help the people around me, and hopefully make Linux more approachable for others too.**
 
 ---
 
-## Featured Project — isolated-desktops
+## 🔧 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚀 Core Focus</h3>
+
+<ul>
+  <li>Practical Linux tools for experimentation</li>
+  <li>Reusable workflows for testing desktops</li>
+  <li>Session-based profile management</li>
+  <li>Learning-oriented customization utilities</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎯 Design Philosophy</h3>
+
+<ul>
+  <li>Real-world use drives development</li>
+  <li>Family support shapes features</li>
+  <li>Hands-on iteration refines tools</li>
+  <li>Approachability guides design</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured Project — isolated-desktops
 
 <div align="center">
 
 <a href="https://github.com/Vguver/isolated-desktops">
-  <img src="https://img.shields.io/badge/View%20Repository-isolated--desktops-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View isolated-desktops" />
+  <img src="https://img.shields.io/badge/View%20Repository-isolated--desktops-blue?style=for-the-badge&logo=github&logoColor=white" alt="View isolated-desktops" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Workflow-Analyze-00BFFF?style=flat-square" alt="Analyze" />
-  <img src="https://img.shields.io/badge/Workflow-Install-00E5FF?style=flat-square" alt="Install" />
-  <img src="https://img.shields.io/badge/Workflow-Verify-39FF14?style=flat-square" alt="Verify" />
-  <img src="https://img.shields.io/badge/Workflow-Iterate-00FF9C?style=flat-square" alt="Iterate" />
+  <img src="https://img.shields.io/badge/Workflow-Analyze-blue?style=flat-square" alt="Analyze" />
+  <img src="https://img.shields.io/badge/Workflow-Install-purple?style=flat-square" alt="Install" />
+  <img src="https://img.shields.io/badge/Workflow-Verify-green?style=flat-square" alt="Verify" />
+  <img src="https://img.shields.io/badge/Workflow-Iterate-cyan?style=flat-square" alt="Iterate" />
 </p>
 
 </div>
 
 **isolated-desktops** is a session-profile manager for testing multiple Linux desktop setups on one machine while keeping separate session homes and a cleaner workflow for analysis, installation, verification, and iteration.
 
-### Built for people who want to
-- test multiple desktop environments without mixing configurations
-- understand how Linux setups are structured
-- compare approaches before committing to one
-- edit and refine real profiles more safely
-- learn through hands-on experimentation
+### 🎯 Built for people who want to
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<ul>
+  <li>Test multiple desktop environments without mixing configurations</li>
+  <li>Understand how Linux setups are structured</li>
+  <li>Compare approaches before committing to one</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<ul>
+  <li>Edit and refine real profiles more safely</li>
+  <li>Experiment with more confidence</li>
+  <li>Learn through hands-on iteration</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vguver/isolated-desktops/Dev/assets/screenshots/status-dashboard.svg" alt="isolated-desktops status dashboard" width="92%" />
 </p>
 
 <details>
-<summary><strong>See another project preview</strong></summary>
+<summary><strong>See another preview</strong></summary>
 
 <br/>
 
@@ -99,142 +136,163 @@ A big part of that motivation comes from helping family members replicate useful
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" alt="" src="https://github-readme-stats.vercel.app/api?username=Vguver&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" />
-  <img width="49%" alt="" src="https://streak-stats.demolab.com?user=Vguver&theme=blue-green&hide_border=true" />
+  <img width="49%" alt="" src="https://github-readme-stats.vercel.app/api?username=Vguver&show_icons=true&include_all_commits=true&theme=transparent&title_color=00E5FF&text_color=A7FFF4&icon_color=39FF14&border_color=00BFFF" />
+  <img width="49%" alt="" src="https://streak-stats.demolab.com?user=Vguver&background=0D111700&border=00BFFF&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakNum=A7FFF4&sideNums=A7FFF4&currStreakLabel=39FF14&sideLabels=00E5FF&dates=8EEBFF" />
 </p>
 
 <p align="center">
-  <img width="42%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vguver&layout=compact&theme=blue-green&hide_border=true&langs_count=8" />
+  <img width="40%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vguver&layout=compact&theme=transparent&title_color=39FF14&text_color=A7FFF4&border_color=00BFFF&langs_count=8" />
+  <img width="58%" alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=Vguver&bg_color=0D111700&color=A7FFF4&title_color=00E5FF&line=00E5FF&point=39FF14&area=true&area_color=00BFFF33&border_color=00BFFF&custom_title=Contribution%20Activity&radius=8" />
 </p>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vguver&show_icons=true&include_all_commits=true&theme=transparent&title_color=00E5FF&text_color=A7FFF4&icon_color=39FF14&border_color=00BFFF" alt="VG GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Vguver&background=0D111700&border=00BFFF&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakNum=A7FFF4&sideNums=A7FFF4&currStreakLabel=39FF14&sideLabels=00E5FF&dates=8EEBFF" alt="VG GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vguver&layout=compact&theme=transparent&title_color=39FF14&text_color=A7FFF4&border_color=00BFFF&langs_count=8" alt="VG top languages" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vguver&bg_color=0D111700&color=A7FFF4&title_color=00E5FF&line=00E5FF&point=39FF14&area=true&area_color=00BFFF33&border_color=00BFFF&custom_title=Contribution%20Activity&radius=8" alt="VG contribution activity graph" />
-</p>
-
----
-## Current Focus
+## 🎯 Current Focus
 
 ```mermaid
-flowchart TB
-    CORE((Linux Desktop Experimentation)):::core
+%%{init: {'theme':'base', 'themeVariables': { 'background':'#0D1117', 'primaryColor':'#0D1117', 'primaryBorderColor':'#00BFFF', 'primaryTextColor':'#D9FFFF', 'lineColor':'#00E5FF', 'secondaryColor':'#0D1117', 'tertiaryColor':'#0D1117' }, 'flowchart': { 'curve': 'stepBefore', 'htmlLabels': true }}}%%
+flowchart LR
+    subgraph LEFT[" "]
+      direction TB
+      DA["Desktop Analysis"]:::module
+      PM["Profile Management"]:::module
+    end
 
-    PM[Profile Management]:::module
-    DA[Desktop Analysis]:::module
-    TD[Tool Development]:::module
-    CS[Community Support]:::module
+    CORE["VG CHIP<br/>Linux Desktop Experimentation"]:::chip
 
-    CORE ==> PM
-    CORE ==> DA
-    CORE ==> TD
-    CORE ==> CS
+    subgraph RIGHT[" "]
+      direction TB
+      TD["Tool Development"]:::module
+      CS["Community Support"]:::module
+    end
 
-    PM --> PM1[Session isolation]:::node
-    PM --> PM2[Config separation]:::node
-    PM --> PM3[Safe testing]:::node
+    DA --> CORE
+    PM --> CORE
+    CORE --> TD
+    CORE --> CS
 
-    DA --> DA1[Structure study]:::node
-    DA --> DA2[Workflow comparison]:::node
-    DA --> DA3[Best practices]:::node
-
-    TD --> TD1[Reusable scripts]:::node
-    TD --> TD2[Modular design]:::node
-    TD --> TD3[Documentation]:::node
-
-    CS --> CS1[Family guidance]:::node
-    CS --> CS2[New user help]:::node
-    CS --> CS3[Knowledge sharing]:::node
-
-    PM -. workflows .-> TD
-    DA -. insights .-> TD
-    CS -. support .-> PM
-    CS -. feedback .-> DA
-
-    classDef core fill:#04161a,stroke:#00e5ff,stroke-width:4px,color:#d9ffff;
-    classDef module fill:#071b18,stroke:#39ff14,stroke-width:3px,color:#d9fff1;
-    classDef node fill:#0d1117,stroke:#00bfff,stroke-width:2px,color:#bffcff;
-    linkStyle default stroke:#00d9ff,stroke-width:2px;
+    classDef chip fill:#07131A,stroke:#39FF14,stroke-width:4px,color:#D9FFFF;
+    classDef module fill:#0D1117,stroke:#00BFFF,stroke-width:3px,color:#A7FFF4;
 ```
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%" valign="top">
 
-### Experimentation
-- Profile-based workflows
-- Multi-desktop testing
-- Safer customization
+<h3>🔬 Experimentation</h3>
 
-</td>
-<td width="33%">
-
-### Development
-- Reusable setup logic
-- Modular structure
-- Clear documentation
+<ul>
+  <li>Profile-based workflows</li>
+  <li>Multi-desktop testing</li>
+  <li>Safer customization</li>
+  <li>Cleaner iteration cycles</li>
+</ul>
 
 </td>
-<td width="33%">
+<td width="50%" valign="top">
 
-### Learning
-- New-user friendly tools
-- Practical experimentation
-- Hands-on understanding
+<h3>🛠️ Development</h3>
+
+<ul>
+  <li>Reusable setup logic</li>
+  <li>Modular structure</li>
+  <li>Clear documentation</li>
+  <li>Practical automation</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 Analysis</h3>
+
+<ul>
+  <li>Study real desktop structures</li>
+  <li>Compare workflows</li>
+  <li>Keep what works</li>
+  <li>Refine what matters</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤝 Support</h3>
+
+<ul>
+  <li>Family-friendly learning</li>
+  <li>New-user guidance</li>
+  <li>Shareable setups</li>
+  <li>Community-minded tools</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-
-## Current Focus
-
-- 🔬 Profile-based workflows for safer Linux desktop testing
-- 🧩 Reusable setup logic that can be refined over time
-- 🖥️ Desktop experimentation without mixing configurations
-- 📚 Learning-oriented tools that help new users understand how Linux setups work
-- 🤝 Practical projects shaped by teaching, iteration, and family support
-
 ---
 
-## Long-Term Vision
+## 🚀 Long-term Vision
 
 I want this GitHub to grow into a collection of practical tools that help people:
 
-**Explore Linux → Understand design choices → Build their own setups → Gain confidence**
+<p align="center">
+  <strong>Explore Linux → Understand design choices → Build their own setups → Gain confidence</strong>
+</p>
 
 The goal is simple: make Linux customization feel less overwhelming, so new users can experiment safely and gradually shape a desktop that fits the way they actually work.
 
 ---
 
-## My Approach to Customization
+## 🌱 My Approach to Customization
 
-1. **Study** how other people structure their setups  
-2. **Adapt** what is genuinely useful  
-3. **Refine** it into something cleaner and more reusable  
-4. **Share** it so others can learn from the process  
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<h3>1️⃣ Study</h3>
+
+Analyze how others structure their setups
+
+</td>
+<td width="25%" valign="top">
+
+<h3>2️⃣ Adapt</h3>
+
+Extract what is genuinely useful
+
+</td>
+<td width="25%" valign="top">
+
+<h3>3️⃣ Refine</h3>
+
+Build something cleaner and reusable
+
+</td>
+<td width="25%" valign="top">
+
+<h3>4️⃣ Share</h3>
+
+Document it so others can learn
+
+</td>
+</tr>
+</table>
 
 > I am especially interested in making Linux customization approachable, so new users can experiment with confidence and gradually build something that is truly their own.
 
 ---
 
-## Connect & Collaborate
+## 📫 Connect
 
 <div align="center">
 
 <a href="https://github.com/Vguver">
-  <img src="https://img.shields.io/badge/GitHub-Vguver-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Vguver-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://github.com/Vguver/isolated-desktops">
-  <img src="https://img.shields.io/badge/Project-isolated--desktops-39FF14?style=for-the-badge&logo=linux&logoColor=0D1117" alt="isolated-desktops" />
+  <img src="https://img.shields.io/badge/Project-isolated--desktops-purple?style=for-the-badge&logo=linux&logoColor=white" alt="isolated-desktops" />
 </a>
 
 </div>
