@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there+!+I+am+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there+!+Welcome+to+VG-Lab+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Linux-Enthusiast-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Enthusiast" />
@@ -71,7 +71,6 @@ A big part of that motivation comes from **helping family members** replicate us
 </table>
 
 ---
-
 ## ⭐ Featured Project — isolated-desktops
 
 <div align="center">
@@ -81,15 +80,24 @@ A big part of that motivation comes from **helping family members** replicate us
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Workflow-Analyze-blue?style=flat-square" alt="Analyze" />
-  <img src="https://img.shields.io/badge/Workflow-Install-purple?style=flat-square" alt="Install" />
-  <img src="https://img.shields.io/badge/Workflow-Verify-green?style=flat-square" alt="Verify" />
-  <img src="https://img.shields.io/badge/Workflow-Iterate-cyan?style=flat-square" alt="Iterate" />
+  <a href="https://github.com/Vguver/isolated-desktops#typical-workflow">
+    <img src="https://img.shields.io/badge/Workflow-Analyze%20Plan-blue?style=flat-square" alt="Analyze Plan" />
+  </a>
+  <a href="https://github.com/Vguver/isolated-desktops#quick-start">
+    <img src="https://img.shields.io/badge/Workflow-Install%20Profile-purple?style=flat-square" alt="Install Profile" />
+  </a>
+  <a href="https://github.com/Vguver/isolated-desktops#health-checks-and-updates">
+    <img src="https://img.shields.io/badge/Workflow-Verify%20Setup-green?style=flat-square" alt="Verify Setup" />
+  </a>
+  <a href="https://github.com/Vguver/isolated-desktops#editor-workflow">
+    <img src="https://img.shields.io/badge/Workflow-Open%20Workspace-cyan?style=flat-square" alt="Open Workspace" />
+  </a>
 </p>
 
 </div>
 
 **isolated-desktops** is a session-profile manager for testing multiple Linux desktop setups on one machine while keeping separate session homes and a cleaner workflow for analysis, installation, verification, and iteration.
+
 
 ### 🎯 Built for people who want to
 
