@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there+!+Welcome+to+VG-Lab+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=920&lines=Hello+there+!+Welcome+to+VG+%F0%9F%91%8B;Self-taught+Linux+enthusiast;Building+practical+tools;for+desktop+experimentation;Making+Linux+easier+to+learn+and+customize)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Linux-Enthusiast-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Enthusiast" />
@@ -81,7 +81,7 @@ A big part of that motivation comes from **helping family members** replicate us
 
 <p>
   <a href="https://github.com/Vguver/isolated-desktops#typical-workflow">
-    <img src="https://img.shields.io/badge/Workflow-Analyze%20Plan-blue?style=flat-square" alt="Analyze Plan" />
+    <img src="https://img.shields.io/badge/Workflow-Review%20Plan-blue?style=flat-square" alt="Review Plan" />
   </a>
   <a href="https://github.com/Vguver/isolated-desktops#quick-start">
     <img src="https://img.shields.io/badge/Workflow-Install%20Profile-purple?style=flat-square" alt="Install Profile" />
@@ -96,8 +96,7 @@ A big part of that motivation comes from **helping family members** replicate us
 
 </div>
 
-**isolated-desktops** is a session-profile manager for testing multiple Linux desktop setups on one machine while keeping separate session homes and a cleaner workflow for analysis, installation, verification, and iteration.
-
+**isolated-desktops** is a session-profile manager for testing multiple Linux desktop setups on one machine while keeping separate session homes and a cleaner workflow for reviewing plans, installing profiles, verifying setups, and opening editor workspaces.
 
 ### 🎯 Built for people who want to
 
